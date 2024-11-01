@@ -1,0 +1,1207 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: wcOne\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-02 04:19+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.2\n"
+"X-Domain: wcone"
+
+#: inc/class-hooks.php:68 inc/class-woo-hooks.php:649
+#, php-format
+msgid "%s Items"
+msgstr ""
+
+#: admin/inc/tabs-content/delivertimebranch.php:105
+msgid "12 Hour"
+msgstr ""
+
+#: admin/inc/tabs-content/delivertimebranch.php:117
+msgid "120min ( Pro )"
+msgstr ""
+
+#: admin/inc/tabs-content/delivertimebranch.php:118
+msgid "180min ( Pro )"
+msgstr ""
+
+#: admin/inc/tabs-content/delivertimebranch.php:106
+msgid "24 Hour"
+msgstr ""
+
+#: admin/inc/tabs-content/delivertimebranch.php:115
+msgid "30min"
+msgstr ""
+
+#: admin/inc/settings-fields/number.php:50
+#: admin/inc/tabs-content/general.php:45
+msgid "6"
+msgstr ""
+
+#: admin/inc/tabs-content/delivertimebranch.php:116
+msgid "60min ( Pro )"
+msgstr ""
+
+#: admin/inc/tabs-content/email.php:65
+msgid "Accept Packaging Notification Text"
+msgstr ""
+
+#: inc/helper-functions.php:158 admin/inc/tabs-content/statustext.php:119
+msgid "Accepted Packaging"
+msgstr ""
+
+#: admin/inc/tabs-content/statustext.php:117
+msgid "Accepted Packaging Text"
+msgstr ""
+
+#: org-addons/Org_Addons.php:115
+msgid "Activate"
+msgstr ""
+
+#: org-addons/Org_Addons.php:120
+msgid "Active"
+msgstr ""
+
+#: admin/inc/tabs-content/email.php:37
+msgid "Active Delivery Boy Assign Email Notification"
+msgstr ""
+
+#: admin/inc/tabs-content/email.php:30
+msgid "Active Email Notification"
+msgstr ""
+
+#: admin/inc/tabs-content/order-received.php:48
+msgid "Active Invitation Option"
+msgstr ""
+
+#: inc/class-text.php:52 admin/inc/settings-fields/zipcode.php:23
+msgid "Add"
+msgstr ""
+
+#: inc/class-text.php:53
+msgid "Add Features"
+msgstr ""
+
+#: admin/inc/settings-fields/km-fee-repeater.php:70
+msgid "Add Fee On KM"
+msgstr ""
+
+#: inc/class-text.php:50
+msgid "Add Group"
+msgstr ""
+
+#: admin/inc/settings-fields/product-visibility-time.php:77
+msgid "Add Visibility Type"
+msgstr ""
+
+#: admin/inc/settings-fields/zipcode-multiinput.php:73
+msgid "Add Zip Code"
+msgstr ""
+
+#: template/woocommerce/checkout/thankyou.php:202
+msgid ""
+"Additional information you'd like we delivery\n"
+"              services. Thank you!"
+msgstr ""
+
+#: admin/inc/tabs-content/location.php:40
+msgid "Address"
+msgstr ""
+
+#: inc/helper-functions.php:470
+msgid "ago"
+msgstr ""
+
+#: inc/helper-functions.php:41 inc/helper-functions.php:72
+msgid "All"
+msgstr ""
+
+#: admin/inc/tabs-content/packaging.php:34
+msgid "All Order Show In  Packaging"
+msgstr ""
+
+#: admin/inc/tabs-content/shortcode.php:33
+msgid "Attrubute List"
+msgstr ""
+
+#: view/modal-canvas-cart.php:18
+msgid "Back"
+msgstr ""
+
+#: admin/inc/tabs-content/delivertimebranch.php:156
+msgid "Bicycling"
+msgstr ""
+
+#: template/woocommerce/checkout/thankyou.php:134
+msgid "Billing address"
+msgstr ""
+
+#: inc/class-woo-hooks.php:479
+msgid "Branch Name"
+msgstr ""
+
+#: admin/inc/settings-fields/day-based-time.php:82
+msgid "Break End Time"
+msgstr ""
+
+#: admin/inc/settings-fields/day-based-time.php:78
+msgid "Break Start Time"
+msgstr ""
+
+#: admin/inc/tabs-content/color-settings.php:36
+msgid "Button Background Color"
+msgstr ""
+
+#: admin/inc/tabs-content/color-settings.php:42
+msgid "Button Color"
+msgstr ""
+
+#: admin/inc/tabs-content/color-settings.php:48
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: admin/inc/tabs-content/color-settings.php:54
+msgid "Button Hover Color"
+msgstr ""
+
+#: admin/inc/tabs-content/shortcode.php:35
+msgid "button_text - button_text=\"search\""
+msgstr ""
+
+#: inc/class-text.php:23
+msgid "Buy More"
+msgstr ""
+
+#: admin/inc/tabs-content/general.php:36
+msgid "Canvas Modal"
+msgstr ""
+
+#: view/modal-canvas-cart.php:17
+msgid "Check Out"
+msgstr ""
+
+#: inc/class-text.php:43
+msgid "Checkbox"
+msgstr ""
+
+#: admin/inc/tabs-content/delivertimebranch.php:30
+msgid "Checkout Delivery Option Show/Hide"
+msgstr ""
+
+#: admin/inc/tabs-content/location.php:79
+msgid "Checkout Page Delivery Location Checker Active"
+msgstr ""
+
+#: admin/inc/settings-fields/day-based-time.php:74
+msgid "Closing Time"
+msgstr ""
+
+#: admin/inc/tabs-content/delivertimebranch.php:163
+msgid "Closing Time Info Text"
+msgstr ""
+
+#: admin/inc/admin-template.php:74 admin/inc/tabs-content/color-settings.php:23
+msgid "Color Settings"
+msgstr ""
+
+#: admin/inc/tabs-content/location.php:51
+msgid "Create google API "
+msgstr ""
+
+#: template/woocommerce/checkout/thankyou.php:89
+msgid "Date:"
+msgstr ""
+
+#: inc/helper-functions.php:456
+msgid "day"
+msgstr ""
+
+#: admin/inc/settings-fields/day-based-time.php:60
+msgid "Days"
+msgstr ""
+
+#: admin/inc/tabs-content/packaging.php:29
+msgid "Deliver Boy Assign Option"
+msgstr ""
+
+#: inc/class-text.php:60
+msgid "Deliver/Pickup Branch Name is a required field."
+msgstr ""
+
+#: inc/class-text.php:34
+msgid "Deliver/Pickup Date"
+msgstr ""
+
+#: inc/class-text.php:35
+msgid "Deliver/Pickup Time"
+msgstr ""
+
+#: admin/inc/tabs-content/delivertimebranch.php:66
+msgid "Deliver/Pickup Time and Date Show/Hide"
+msgstr ""
+
+#: inc/class-text.php:58
+msgid "Deliver/Pickup Time is a required field."
+msgstr ""
+
+#: admin/inc/tabs-content/delivertimebranch.php:86
+msgid "Deliver/Pickup Time Option Note"
+msgstr ""
+
+#: inc/class-text.php:59
+msgid "Deliver/Pickup type is a required field."
+msgstr ""
+
+#: inc/custom-hooks.php:34
+msgid "Delivery"
+msgstr ""
+
+#: admin/inc/tabs-content/shortcode.php:43
+msgid "Delivery ability checker form ( Pro )"
+msgstr ""
+
+#: admin/inc/tabs-content/shortcode.php:30
+msgid "Delivery ability checker form:"
+msgstr ""
+
+#: admin/inc/tabs-content/location.php:30
+msgid "Delivery Availability Checker Active"
+msgstr ""
+
+#: inc/class-text.php:39
+msgid "Delivery boy assigned failed"
+msgstr ""
+
+#: inc/class-text.php:38
+msgid "Delivery boy assigned success"
+msgstr ""
+
+#: admin/inc/tabs-content/email.php:86
+msgid "Delivery Complete Notification Text"
+msgstr ""
+
+#: inc/helper-functions.php:165 admin/inc/tabs-content/statustext.php:103
+msgid "Delivery Completed"
+msgstr ""
+
+#: admin/inc/tabs-content/statustext.php:101
+msgid "Delivery Completed Text"
+msgstr ""
+
+#: admin/inc/tabs-content/delivertimebranch.php:151
+msgid "Delivery Directions Map Transport Mode"
+msgstr ""
+
+#: inc/class-text.php:32
+msgid "Delivery is available"
+msgstr ""
+
+#: inc/custom-hooks.php:84
+msgid "Delivery Schedule Type"
+msgstr ""
+
+#: admin/inc/admin-template.php:70
+#: admin/inc/tabs-content/delivertimebranch.php:23
+msgid "Delivery Settings"
+msgstr ""
+
+#: admin/inc/tabs-content/delivertimebranch.php:94
+msgid "Delivery Time and Day "
+msgstr ""
+
+#: admin/inc/tabs-content/delivertimebranch.php:102
+msgid "Delivery Time Format"
+msgstr ""
+
+#: admin/inc/tabs-content/delivertimebranch.php:112
+msgid "Delivery Time Slot"
+msgstr ""
+
+#: inc/class-woo-hooks.php:141 inc/custom-hooks.php:27
+msgid "Delivery Type"
+msgstr ""
+
+#: template/woocommerce/myaccount/view-order.php:43
+msgid "Delivery Type:"
+msgstr ""
+
+#: admin/inc/tabs-content/delivertimebranch.php:39
+msgid "Delivery/Pickup Both"
+msgstr ""
+
+#: admin/inc/tabs-content/delivertimebranch.php:154
+msgid "Driving"
+msgstr ""
+
+#: inc/class-components-ajax.php:63
+msgid "E-mail id not found."
+msgstr ""
+
+#: admin/inc/tabs-content/email.php:100
+msgid "Email Template Footer Text"
+msgstr ""
+
+#: admin/inc/tabs-content/email.php:107
+msgid "Email Template Header Background Color"
+msgstr ""
+
+#: admin/inc/tabs-content/email.php:93
+msgid "Email Template Header Text"
+msgstr ""
+
+#: template/woocommerce/checkout/thankyou.php:95
+msgid "Email:"
+msgstr ""
+
+#: admin/inc/settings-fields/location-search.php:54
+msgid "Enter a location"
+msgstr ""
+
+#: inc/class-woo-hooks.php:677
+msgid "Extra Item"
+msgstr ""
+
+#: admin/inc/tabs-content/order-received.php:78
+msgid "Facebook Share Link"
+msgstr ""
+
+#: inc/class-text.php:47
+msgid "Feature max required number"
+msgstr ""
+
+#: inc/class-text.php:46
+msgid "Feature minimum required number"
+msgstr ""
+
+#: inc/class-text.php:45
+msgid "Feature Section Title"
+msgstr ""
+
+#: inc/class-woo-hooks.php:466
+msgid "Features items is a required field."
+msgstr ""
+
+#: admin/inc/tabs-content/general.php:37
+msgid "Footer Fixed ( Pro )"
+msgstr ""
+
+#: inc/class-text.php:48
+msgid "Frature Title"
+msgstr ""
+
+#: admin/inc/tabs-content/delivertimebranch.php:60
+msgid "Free shipping require minimum order amount"
+msgstr ""
+
+#: inc/helper-functions.php:761
+msgid "Friday"
+msgstr ""
+
+#: admin/inc/admin-template.php:69
+msgid "General"
+msgstr ""
+
+#: admin/inc/tabs-content/general.php:24
+msgid "General Settings"
+msgstr ""
+
+#: admin/inc/settings-fields/day-based-time.php:66
+msgid "HoliDay?"
+msgstr ""
+
+#: inc/helper-functions.php:457
+msgid "hour"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themelooks.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.themelooks.com/blog/"
+msgstr ""
+
+#: org-addons/Org_Addons.php:125
+msgid "Install Now"
+msgstr ""
+
+#: admin/inc/tabs-content/order-received.php:54
+msgid "Invitation Header ( From ) Email"
+msgstr ""
+
+#: admin/inc/tabs-content/order-received.php:66
+msgid "Invitation Message"
+msgstr ""
+
+#: admin/inc/tabs-content/order-received.php:60
+msgid "Invitation Message Subject"
+msgstr ""
+
+#: inc/class-components-ajax.php:59
+msgid "Invite failed, please try again."
+msgstr ""
+
+#: template/woocommerce/checkout/thankyou.php:218
+msgid "Invite frends"
+msgstr ""
+
+#: template/woocommerce/checkout/thankyou.php:199
+msgid "Invite your friend"
+msgstr ""
+
+#: admin/inc/tabs-content/invoice-settings.php:62
+msgid "Invoice Footer Text"
+msgstr ""
+
+#: admin/inc/tabs-content/invoice-settings.php:55
+msgid "Invoice header restaurant Address"
+msgstr ""
+
+#: admin/inc/tabs-content/invoice-settings.php:48
+msgid "Invoice header restaurant name"
+msgstr ""
+
+#: admin/inc/admin-template.php:78
+#: admin/inc/tabs-content/invoice-settings.php:23
+msgid "Invoice Settings"
+msgstr ""
+
+#: admin/inc/tabs-content/invoice-settings.php:30
+msgid "Invoice Type"
+msgstr ""
+
+#: inc/class-woo-hooks.php:117
+msgid "Item Extra:-"
+msgstr ""
+
+#: inc/class-woo-hooks.php:112
+msgid "Item Instructions"
+msgstr ""
+
+#: inc/helper-functions.php:470
+msgid "just now"
+msgstr ""
+
+#: template/woocommerce/myaccount/view-order.php:54
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: inc/class-text.php:28
+msgid "Less"
+msgstr ""
+
+#: inc/class-text.php:42
+msgid "List Type"
+msgstr ""
+
+#: inc/class-text.php:29 view/template-modal-wrapper.php:19
+msgid "Loading"
+msgstr ""
+
+#: admin/inc/tabs-content/location.php:58
+msgid "Location Modal Popup Active"
+msgstr ""
+
+#: admin/inc/admin-template.php:75 admin/inc/tabs-content/location.php:23
+msgid "Location Settings"
+msgstr ""
+
+#: admin/inc/tabs-content/location.php:37
+msgid "Location Type"
+msgstr ""
+
+#: admin/inc/tabs-content/invoice-settings.php:41
+msgid "Logo Upload"
+msgstr ""
+
+#: admin/inc/tabs-content/color-settings.php:30
+msgid "Main Color"
+msgstr ""
+
+#: admin/inc/tabs-content/general.php:43
+msgid "Manager Page Order Notification Delay Time ( default 6 second )"
+msgstr ""
+
+#: admin/inc/tabs-content/color-settings.php:60
+msgid "Mini Cart Button background"
+msgstr ""
+
+#: admin/inc/tabs-content/color-settings.php:66
+msgid "Mini Cart Button Count background"
+msgstr ""
+
+#: admin/inc/tabs-content/color-settings.php:72
+msgid "Mini Cart Button Count Text Color"
+msgstr ""
+
+#: admin/inc/tabs-content/general.php:33
+msgid "Mini Cart Style"
+msgstr ""
+
+#: admin/inc/tabs-content/delivertimebranch.php:54
+msgid "Minimum order amount"
+msgstr ""
+
+#: inc/helper-functions.php:458
+msgid "minute"
+msgstr ""
+
+#: admin/inc/tabs-content/location.php:72
+msgid "Modal Close Button Show"
+msgstr ""
+
+#: admin/inc/tabs-content/location.php:65
+msgid "Modal Location Checker Active"
+msgstr ""
+
+#: inc/helper-functions.php:757
+msgid "Monday"
+msgstr ""
+
+#: inc/helper-functions.php:454
+msgid "month"
+msgstr ""
+
+#: org-addons/Org_Addons.php:134
+msgid "More Details"
+msgstr ""
+
+#: template/woocommerce/checkout/thankyou.php:63
+msgid "My account"
+msgstr ""
+
+#: template/woocommerce/checkout/thankyou.php:137
+#: template/woocommerce/checkout/thankyou.php:155
+msgid "N/A"
+msgstr ""
+
+#: inc/helper-functions.php:152 admin/inc/tabs-content/statustext.php:47
+msgid "New Order"
+msgstr ""
+
+#: inc/class-text.php:30
+msgid "New Order Placed"
+msgstr ""
+
+#: admin/inc/tabs-content/statustext.php:45
+msgid "New Order Text"
+msgstr ""
+
+#: template/woocommerce/cart/mini-cart.php:159
+msgid "No products in the cart."
+msgstr ""
+
+#: admin/inc/tabs-content/invoice-settings.php:33
+msgid "Normal Printer"
+msgstr ""
+
+#: admin/inc/tabs-content/general.php:51
+msgid "Notification Audio Loop"
+msgstr ""
+
+#: inc/class-text.php:62
+msgid "Nutrition Title"
+msgstr ""
+
+#: admin/inc/tabs-content/delivertimebranch.php:72
+msgid "Off current date order"
+msgstr ""
+
+#: inc/helper-functions.php:163 admin/inc/tabs-content/statustext.php:87
+msgid "On The Way"
+msgstr ""
+
+#: admin/inc/tabs-content/email.php:79
+msgid "On The Way Notification Text"
+msgstr ""
+
+#: admin/inc/tabs-content/statustext.php:85
+msgid "On The Way Text"
+msgstr ""
+
+#: inc/helper-functions.php:164 admin/inc/tabs-content/statustext.php:135
+msgid "On The Way To Delivery"
+msgstr ""
+
+#: admin/inc/tabs-content/statustext.php:133
+msgid "On The Way To Delivery Text"
+msgstr ""
+
+#: admin/inc/tabs-content/delivertimebranch.php:40
+msgid "Only Delivery"
+msgstr ""
+
+#: admin/inc/tabs-content/delivertimebranch.php:41
+msgid "Only Pickup"
+msgstr ""
+
+#: admin/inc/settings-fields/day-based-time.php:70
+msgid "Opening Time"
+msgstr ""
+
+#: template/woocommerce/checkout/thankyou.php:232
+msgid "OR"
+msgstr ""
+
+#. 1: order number 2: order date 3: order status
+#: template/woocommerce/myaccount/view-order.php:28
+#, php-format
+msgid "Order #%1$s was placed on %2$s and is currently %3$s."
+msgstr ""
+
+#: inc/helper-functions.php:155 admin/inc/tabs-content/statustext.php:31
+msgid "Order Cancel"
+msgstr ""
+
+#: admin/inc/tabs-content/email.php:51
+msgid "Order Cancel Notification Text"
+msgstr ""
+
+#: admin/inc/tabs-content/statustext.php:29
+msgid "Order Cancel Text"
+msgstr ""
+
+#: admin/inc/tabs-content/delivertimebranch.php:144
+msgid "Order Delivery Directions Map Active"
+msgstr ""
+
+#: template/woocommerce/checkout/thankyou.php:52
+msgid "Order Details"
+msgstr ""
+
+#: inc/helper-functions.php:156 admin/inc/tabs-content/statustext.php:39
+msgid "Order Failed"
+msgstr ""
+
+#: admin/inc/tabs-content/statustext.php:37
+msgid "Order Failed Text"
+msgstr ""
+
+#: admin/inc/tabs-content/delivertimebranch.php:124
+msgid "Order Limit On Time Slot"
+msgstr ""
+
+#: admin/inc/class-admin-menu.php:47
+msgid "Order Manage"
+msgstr ""
+
+#: template/woocommerce/checkout/thankyou.php:84
+msgid "Order number:"
+msgstr ""
+
+#: inc/helper-functions.php:153 admin/inc/tabs-content/statustext.php:111
+msgid "Order Placed"
+msgstr ""
+
+#: admin/inc/tabs-content/statustext.php:109
+msgid "Order Placed Text"
+msgstr ""
+
+#: admin/inc/admin-template.php:72 admin/inc/tabs-content/order-received.php:23
+msgid "Order Received Pgae"
+msgstr ""
+
+#: admin/inc/tabs-content/email.php:23
+msgid "Order Status Change Email Settings"
+msgstr ""
+
+#: admin/inc/admin-template.php:76
+msgid "Order Status Email"
+msgstr ""
+
+#: template/woocommerce/checkout/thankyou.php:78
+msgid "Order Tracking"
+msgstr ""
+
+#: inc/class-text.php:41
+msgid "Order transfer failed"
+msgstr ""
+
+#: inc/class-text.php:40
+msgid "Order transfer success"
+msgstr ""
+
+#: template/woocommerce/myaccount/view-order.php:48
+msgid "Order updates"
+msgstr ""
+
+#. page title
+#: admin/inc/class-admin-menu.php:48
+msgid "Orders"
+msgstr ""
+
+#: admin/inc/tabs-content/email.php:72
+msgid "Packaging Complete Notification Text"
+msgstr ""
+
+#: inc/helper-functions.php:161 admin/inc/tabs-content/statustext.php:71
+msgid "Packaging Completed"
+msgstr ""
+
+#: admin/inc/tabs-content/statustext.php:69
+msgid "Packaging Completed Text"
+msgstr ""
+
+#: admin/inc/admin-template.php:71 admin/inc/tabs-content/packaging.php:23
+msgid "Packaging Options"
+msgstr ""
+
+#: inc/helper-functions.php:166 admin/inc/tabs-content/statustext.php:63
+msgid "Packaging Processing"
+msgstr ""
+
+#: admin/inc/tabs-content/statustext.php:61
+msgid "Packaging Processing Text"
+msgstr ""
+
+#: admin/inc/tabs-content/order-received.php:42
+msgid "Page Description"
+msgstr ""
+
+#: admin/inc/admin-template.php:73 admin/inc/tabs-content/page-settings.php:23
+msgid "Page Settings"
+msgstr ""
+
+#: admin/inc/tabs-content/order-received.php:36
+msgid "Page Title"
+msgstr ""
+
+#: admin/inc/tabs-content/order-received.php:30
+msgid "Page Top Image"
+msgstr ""
+
+#: template/woocommerce/checkout/thankyou.php:61
+msgid "Pay"
+msgstr ""
+
+#: template/woocommerce/checkout/thankyou.php:183
+msgid "Payment Method"
+msgstr ""
+
+#: template/woocommerce/checkout/thankyou.php:107
+msgid "Payment method:"
+msgstr ""
+
+#: inc/custom-hooks.php:40
+msgid "Pickup by me"
+msgstr ""
+
+#: inc/class-woo-hooks.php:584
+msgid "Please check delivery availability on your location, Before place order"
+msgstr ""
+
+#: inc/class-woo-hooks.php:721
+#, php-format
+msgid "Please choose at list %s and max %s options."
+msgstr ""
+
+#: inc/class-woo-hooks.php:733
+#, php-format
+msgid "Please choose at list %s options."
+msgstr ""
+
+#: inc/class-text.php:64
+msgid "Please select the branch"
+msgstr ""
+
+#: inc/class-text.php:66
+msgid "Please Select the branch before add to cart"
+msgstr ""
+
+#: inc/class-woo-hooks.php:416 inc/class-woo-hooks.php:446
+#: inc/helper-functions.php:154
+msgid "Pre Order"
+msgstr ""
+
+#: admin/inc/tabs-content/delivertimebranch.php:79
+msgid "Pre order active"
+msgstr ""
+
+#: admin/inc/tabs-content/delivertimebranch.php:131
+msgid "Pre Order Days Limit"
+msgstr ""
+
+#: inc/class-text.php:49
+msgid "Price"
+msgstr ""
+
+#: inc/helper-functions.php:157 admin/inc/tabs-content/statustext.php:127
+msgid "Processing"
+msgstr ""
+
+#: admin/inc/tabs-content/statustext.php:125
+msgid "Processing Text"
+msgstr ""
+
+#: inc/class-text.php:24
+msgid "Product don't added in the cart. please try again."
+msgstr ""
+
+#: inc/class-text.php:63
+msgid "Quantity"
+msgstr ""
+
+#: inc/class-text.php:44
+msgid "Radio"
+msgstr ""
+
+#: inc/helper-functions.php:162 admin/inc/tabs-content/statustext.php:95
+msgid "Ready To Delivery"
+msgstr ""
+
+#: admin/inc/tabs-content/statustext.php:93
+msgid "Ready To Delivery Text"
+msgstr ""
+
+#. page title
+#: admin/inc/class-admin-menu.php:56 admin/inc/class-admin-menu.php:57
+msgid "Recommended Plugins"
+msgstr ""
+
+#: inc/class-text.php:54 admin/inc/settings-fields/km-fee-repeater.php:63
+#: admin/inc/settings-fields/product-visibility-time.php:69
+#: admin/inc/settings-fields/zipcode-multiinput.php:66
+#: admin/inc/settings-fields/zipcode.php:64
+msgid "Remove"
+msgstr ""
+
+#: inc/class-text.php:51
+msgid "Remove Group"
+msgstr ""
+
+#: template/woocommerce/cart/mini-cart.php:122
+msgid "Remove this item"
+msgstr ""
+
+#: inc/class-text.php:25
+msgid "Review has been submitted successfully."
+msgstr ""
+
+#: inc/class-text.php:26
+msgid "Review submission Failed. Please try again."
+msgstr ""
+
+#: inc/helper-functions.php:762
+msgid "Saturday"
+msgstr ""
+
+#: admin/inc/settings-fields/class-settings-fields-base.php:81
+msgid "Save Setting"
+msgstr ""
+
+#: inc/class-text.php:37
+msgid "Schedule Delivery/Pickup"
+msgstr ""
+
+#: admin/inc/settings-fields/location-search.php:51
+msgid "Search Shop Location"
+msgstr ""
+
+#: inc/helper-functions.php:459
+msgid "second"
+msgstr ""
+
+#: admin/inc/tabs-content/page-settings.php:53
+msgid "Select Admin Page"
+msgstr ""
+
+#: admin/inc/tabs-content/page-settings.php:29
+msgid "Select Branch Manager Page"
+msgstr ""
+
+#: admin/inc/tabs-content/page-settings.php:45
+msgid "Select Delivery Page"
+msgstr ""
+
+#: admin/inc/tabs-content/page-settings.php:37
+msgid "Select Packaging Manager Page"
+msgstr ""
+
+#: inc/class-text.php:65
+msgid "Select Table Number"
+msgstr ""
+
+#: inc/helper-functions.php:159 admin/inc/tabs-content/statustext.php:55
+msgid "Send To Packaging"
+msgstr ""
+
+#: admin/inc/tabs-content/email.php:58
+msgid "Send To Packaging Notification Text"
+msgstr ""
+
+#: admin/inc/tabs-content/statustext.php:53
+msgid "Send To Packaging Text"
+msgstr ""
+
+#: admin/inc/tabs-content/location.php:87
+msgid "Set Delivery Availability Checker Modal Show Page"
+msgstr ""
+
+#: admin/inc/tabs-content/delivertimebranch.php:47
+msgid "Set Delivery Fee"
+msgstr ""
+
+#: admin/inc/tabs-content/delivertimebranch.php:36
+msgid "Set Delivery Options"
+msgstr ""
+
+#: admin/inc/tabs-content/location.php:48
+msgid "Set Google API Key"
+msgstr ""
+
+#: inc/class-text.php:61
+msgid "Set Meta"
+msgstr ""
+
+#: admin/inc/tabs-content/delivertimebranch.php:138
+msgid "Set Time Zone"
+msgstr ""
+
+#: admin/inc/class-admin-menu.php:43
+msgid "Settings"
+msgstr ""
+
+#: admin/inc/admin-template.php:32
+msgid "Settings Saved"
+msgstr ""
+
+#: template/woocommerce/checkout/thankyou.php:246
+#: template/woocommerce/checkout/thankyou.php:247
+msgid "Share on facebook"
+msgstr ""
+
+#: template/woocommerce/checkout/thankyou.php:238
+#: template/woocommerce/checkout/thankyou.php:239
+msgid "Share on twitter"
+msgstr ""
+
+#: template/woocommerce/checkout/thankyou.php:153
+msgid "Shipping address"
+msgstr ""
+
+#: admin/inc/tabs-content/shortcode.php:42
+msgid "Shortcode For ?"
+msgstr ""
+
+#: admin/inc/tabs-content/shortcode.php:39
+msgid "Shortcode Generator"
+msgstr ""
+
+#: admin/inc/admin-template.php:82 admin/inc/tabs-content/shortcode.php:22
+#: admin/inc/tabs-content/shortcode.php:27
+msgid "Shortcode List"
+msgstr ""
+
+#: inc/class-text.php:27
+msgid "Show More"
+msgstr ""
+
+#: inc/class-text.php:33
+msgid "Sorry, We are not available to delivery in your area"
+msgstr ""
+
+#: inc/class-text.php:31
+msgid "Start Order"
+msgstr ""
+
+#: admin/inc/admin-template.php:77 admin/inc/tabs-content/statustext.php:23
+msgid "Status Text"
+msgstr ""
+
+#: admin/inc/tabs-content/email.php:44
+msgid "Subject Text"
+msgstr ""
+
+#: inc/class-woo-hooks.php:660
+msgid "Subtotal :"
+msgstr ""
+
+#: inc/helper-functions.php:756
+msgid "Sunday"
+msgstr ""
+
+#: template/woocommerce/checkout/thankyou.php:69
+#: template/woocommerce/checkout/thankyou.php:277
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: inc/class-components-ajax.php:57
+msgid "Thanks for sending invitation"
+msgstr ""
+
+#. Author of the plugin
+msgid "ThemeLooks"
+msgstr ""
+
+#: admin/inc/tabs-content/invoice-settings.php:34
+msgid "Thermal/Receipt Printer"
+msgstr ""
+
+#: inc/class-text.php:57
+msgid "This is break time. Not available for order."
+msgstr ""
+
+#: inc/class-text.php:67
+msgid "This is closing time. So you can't order."
+msgstr ""
+
+#: inc/class-text.php:55
+msgid "This time slot is full. Try another time slot"
+msgstr ""
+
+#: inc/helper-functions.php:760
+msgid "Thursday"
+msgstr ""
+
+#: inc/class-woo-hooks.php:145
+msgid "Time to Deliver/Pickup"
+msgstr ""
+
+#: admin/inc/settings-fields/class-settings-fields-base.php:53
+msgid "Title goes to here"
+msgstr ""
+
+#: inc/class-text.php:36
+msgid "Today Delivery/Pickup"
+msgstr ""
+
+#: inc/class-woo-hooks.php:776
+msgid "Total Price"
+msgstr ""
+
+#: inc/class-woo-hooks.php:772
+msgid "Total Product Extra Price"
+msgstr ""
+
+#: template/woocommerce/checkout/thankyou.php:101
+msgid "Total:"
+msgstr ""
+
+#: inc/helper-functions.php:758
+msgid "Tuesday"
+msgstr ""
+
+#: admin/inc/tabs-content/order-received.php:72
+msgid "Twitter Share Link"
+msgstr ""
+
+#. Description of the plugin
+msgid "Ultimate Addons For WooCommerce"
+msgstr ""
+
+#: template/woocommerce/checkout/thankyou.php:58
+msgid ""
+"Unfortunately your order cannot be processed as the originating "
+"bank/merchant has declined your transaction. Please attempt your purchase "
+"again."
+msgstr ""
+
+#: inc/class-woo-hooks.php:390
+msgid "Unpaid order cancelled - time limit reached."
+msgstr ""
+
+#: admin/inc/settings-fields/media.php:51
+msgid "Upload"
+msgstr ""
+
+#: admin/inc/tabs-content/general.php:58
+msgid "Upload Notification Audio MP3"
+msgstr ""
+
+#: inc/class-text.php:22
+msgid "View Cart"
+msgstr ""
+
+#: template/woocommerce/checkout/thankyou.php:77
+msgid "View Orders"
+msgstr ""
+
+#: inc/helper-functions.php:160 admin/inc/tabs-content/statustext.php:79
+msgid "Waiting For Packaging Accept"
+msgstr ""
+
+#: admin/inc/tabs-content/statustext.php:77
+msgid "Waiting For Packaging Accept Text"
+msgstr ""
+
+#: admin/inc/tabs-content/delivertimebranch.php:155
+msgid "Walking"
+msgstr ""
+
+#: admin/inc/class-admin-menu.php:37
+msgid "Wcone"
+msgstr ""
+
+#. Name of the plugin
+msgid "wcOne"
+msgstr ""
+
+#: wcone.php:110
+#, php-format
+msgid ""
+"Wcone requires the WooCommerce plugin to be installed and active. You can "
+"download %s woocommerce %s here. Thanks."
+msgstr ""
+
+#: admin/inc/class-admin-menu.php:36 admin/inc/class-admin-menu.php:43
+msgid "Wcone Settings"
+msgstr ""
+
+#: inc/helper-functions.php:759
+msgid "Wednesday"
+msgstr ""
+
+#: inc/helper-functions.php:455
+msgid "week"
+msgstr ""
+
+#: inc/helper-functions.php:453
+msgid "year"
+msgstr ""
+
+#: inc/class-woo-hooks.php:727
+#, php-format
+msgid "You could choose max %s options."
+msgstr ""
+
+#: template/woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: inc/class-woo-hooks.php:610
+#, php-format
+msgid ""
+"Your current cart total is %s — you must have an order with a minimum of %s "
+"to place your order"
+msgstr ""
+
+#: inc/class-woo-hooks.php:632
+#, php-format
+msgid ""
+"Your current order sub total is %s — you must have an order with a minimum "
+"of %s to place your order"
+msgstr ""
+
+#: template/woocommerce/checkout/thankyou.php:215
+msgid "Your email Address"
+msgstr ""
+
+#: template/woocommerce/checkout/form-checkout.php:54
+msgid "Your order"
+msgstr ""
+
+#: inc/class-text.php:56
+msgid "Your selected time slot is not available for order."
+msgstr ""
+
+#: admin/inc/tabs-content/location.php:41
+msgid "Zip Code"
+msgstr ""
